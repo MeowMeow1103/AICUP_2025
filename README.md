@@ -1,3 +1,3 @@
 # AICUP_2025
 
-![Private Leaderboard](https://example.com/image.png)
+![Private Leaderboard](Private Leaderboard.png)
